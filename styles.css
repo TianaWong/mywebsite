@@ -1,0 +1,27 @@
+body{
+	background-image: url(images/cover.jpg);
+	background-size:cover;
+	color:white;
+	margin: 100px;
+	padding-right: 400px
+}
+
+div{
+	float: left;
+	border: 1px solid none;
+	display:inline;
+}
+
+h3{
+	color: blue;
+}
+
+img{
+	border-radius: 0px;
+	float: inline;
+	width:100px;
+	height:75px;
+	border: white solid 5px;
+	padding: 10px;
+	margin: 10px;
+}
